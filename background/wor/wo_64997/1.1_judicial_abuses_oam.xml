@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:EDGE-7658389" name="1.1_judicial_abuses" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Adobe Edge (V1.DW.Edge)]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="images/Poster.png" width="530" height="410" />
+
+  <require type="other" src="1.1_judicial_abuses.html" />
+  <require type="other" src="images/Icon" />
+
+  <require type="javascript" src="1.1_judicial_abuses_edge.js" />
+  <require type="javascript" src="edge_includes/edge.6.0.0.min.js" />
+
+  <require type="image" src="images/1.png" />
+  <require type="image" src="images/2.png" />
+  <require type="image" src="images/3.png" />
+  <require type="image" src="images/4.png" />
+  <require type="image" src="images/5.png" />
+  <require type="image" src="images/6.png" />
+  <require type="image" src="images/judge_hammer.png" />
+  <require type="image" src="images/Poster.png" />
+
+  <require type="folder" src="edge_includes" />
+  <require type="folder" src="images" />
+
+
+  <content><![CDATA[
+    <div class="EDGE-7658389"></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="530" hidden="true"/>
+    <property name="default-height" defaultValue="410" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>				
+		<property name="centering" defaultValue="none" hidden="true"/>				
+		<property name="scaling" defaultValue="none" hidden="true"/>
+    <property name="html-page" defaultValue="1.1_judicial_abuses.html" hidden="true"/>
+  </properties>
+
+</widget>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:EDGE-12421829" name="4.1_judiciary_act_1801" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Adobe Edge (V1.DW.Edge)]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="images/icon.png" width="530" height="410" />
+
+  <require type="other" src="4.1_judiciary_act_1801.html" />
+  <require type="other" src="images/Icon" />
+
+  <require type="javascript" src="4.1_judiciary_act_1801_edge.js" />
+  <require type="javascript" src="edge_includes/edge.5.0.1.min.js" />
+
+  <require type="image" src="images/1.png" />
+  <require type="image" src="images/2.png" />
+  <require type="image" src="images/3.png" />
+  <require type="image" src="images/4.png" />
+  <require type="image" src="images/5.png" />
+  <require type="image" src="images/6.png" />
+  <require type="image" src="images/7.png" />
+  <require type="image" src="images/icon.png" />
+  <require type="image" src="images/john_adams.png" />
+  <require type="image" src="images/law_part_trans.png" />
+  <require type="image" src="images/Poster.png" />
+
+  <require type="folder" src="edge_includes" />
+  <require type="folder" src="images" />
+
+
+  <content><![CDATA[
+    <div class="EDGE-12421829"></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="530" hidden="true"/>
+    <property name="default-height" defaultValue="410" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>				
+		<property name="centering" defaultValue="none" hidden="true"/>				
+		<property name="scaling" defaultValue="none" hidden="true"/>
+    <property name="html-page" defaultValue="4.1_judiciary_act_1801.html" hidden="true"/>
+  </properties>
+
+</widget>
